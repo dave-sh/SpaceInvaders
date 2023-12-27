@@ -4,5 +4,6 @@ This was my final project for my Digital Art class and involved the development 
 
 ## Space Invaders Demo Video
 
-https://github.com/dave-sh/SpaceInvaders/assets/43797198/000c8b08-6fb5-411b-8a72-2eb1b2d1ad69
+https://github.com/dave-sh/SpaceInvaders/assets/43797198/dd5ec107-a6c2-4f03-9255-e08f98876ac6
+
 
